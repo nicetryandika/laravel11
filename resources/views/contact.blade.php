@@ -8,14 +8,19 @@
 </head>
 <body>
     <a href="/">Home</a>
-    <a href="/about">About</a>
     <a href="/blog">Blog</a>
+    <a href="/about">About</a>
     <a href="/contact">Contact</a>
 
     <h1>Halaman Contact</h1>
-    <h3>Social Media</h3>
-    <a href="https://github.com/nicetryandika">Github</a>
-    <a href="https://www.facebook.com/trydhika/">Facebook</a>
+    <ul>
+        <li>
+            <a href="https://github.com/nicetryandika">Github</a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/trydhika/">Facebook</a>
+        </li>
+    </ul>
     <link rel="stylesheet" href="css/style.css">
 </body>
 </html>
